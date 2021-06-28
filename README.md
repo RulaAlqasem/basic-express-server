@@ -8,11 +8,11 @@
 
 [dev branch deployed link](https://rula-basic-express-server-dev.herokuapp.com/)
 
-[action link]()
+[action link](https://github.com/RulaAlqasem/basic-express-server/actions)
 
-[pull request link]()
+[pull request link](https://github.com/RulaAlqasem/basic-express-server/pull/1)
 
-[repo link]()
+[repo link](https://github.com/RulaAlqasem/basic-express-server)
 
 ### Phase 1 Requirements
 
