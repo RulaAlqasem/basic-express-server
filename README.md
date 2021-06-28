@@ -6,7 +6,7 @@
 
 [master deployed link ]()
 
-[dev branch deployed link]()
+[dev branch deployed link](https://rula-basic-express-server-dev.herokuapp.com/)
 
 [action link]()
 
